@@ -1,5 +1,5 @@
 ﻿Public Class Class1
     Public Function Hello() As Integer
-        Return 2
+        Return 3
     End Function
 End Class
